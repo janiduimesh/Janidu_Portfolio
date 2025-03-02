@@ -1,17 +1,17 @@
 export const Bio = {
-  name: "Tharusha Dinuth",
+  name: "Janidu Imesh",
   roles: [
-    "Full Stack Developer",
-    "Mobile app Developer",
-    "UI/UX Designer",
+    "ML Developer",
+    "AI Developer",
+    "Data Anatytics",
     "Programmer",
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/Tharusha-2000",
+  github: "https://github.com/janiduimesh",
   resume:
     "https://firebasestorage.googleapis.com/v0/b/zionlogy-4b6e6.appspot.com/o/cv%2FTharushaGunasekara.pdf?alt=media&token=f90f1e3d-ecef-4715-80a6-3360ece62a51",
-  linkedin: "https://www.linkedin.com/in/tharushadinuth/",
+  linkedin: "https://www.linkedin.com/in/janidu-imesh-589049292/",
   insta: "https://www.instagram.com/______td_____/",
   facebook: "https://web.facebook.com/profile.php?id=100004544387202",
 
