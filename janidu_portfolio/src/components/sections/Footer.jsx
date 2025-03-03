@@ -94,7 +94,6 @@ const Footer = () => {
         <Nav>
         <StyledLink smooth to="#About">About</StyledLink>
 <StyledLink smooth to="#Skills">Skills</StyledLink>
-<StyledLink smooth to="#Experience">Experience</StyledLink>
 <StyledLink smooth to="#Projects">Projects</StyledLink>
 <StyledLink smooth to="#Education">Education</StyledLink>
         </Nav>
