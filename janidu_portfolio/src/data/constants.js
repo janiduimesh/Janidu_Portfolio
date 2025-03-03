@@ -330,173 +330,112 @@ export const education = [
 export const projects = [
   {
     id: 11,
-    title: "Zionlogy",
-    date: "May 2024 - Dec 2023",
+    title: "AI-Powered SQL Query Assistant",
+    date: "Jan 2025 - Feb 2025",
   
     description:
-      "Zionlogy  manages the full internship lifecycle, including onboarding, project assignments, performance tracking, and evaluation through a centralized platform.And also facilitates structured communication, mentorship, and feedback, enabling interns to update tasks and profiles, and allowing evaluators to conduct streamlined assessments.  ----------User Credentials:--------Admin: [ tharushadinuth21@gmail.com / tharusha@123 ] .... Intern: [ tharushaintern@gmail.com / tharusha@123 ].... Mentor: [ tharushamentor@gmail.com / tharusha@123 ].... Manager: [ tharushamanager@gmail.com / tharusha@123 ].... Evaluator: [ tharushaevaluator@gmail.com / tharusha@123 ]",
+      "Developed an interactive AI-powered SQL query assistant using Streamlit, Groq LLM, LangChain, and MySQL. This tool enables users to ask questions in plain English and receive accurate SQL queries & results instantly. Leveraging LangChain for structured prompt handling and Groq LLM for fast, efficient query generation, it ensures seamless database interaction. Features include custom UI styling, error handling, and real-time database connectivity.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/protofilo-fe6a9.appspot.com/o/Personaldetails%2FZinology.png?alt=media&token=cc9b1492-d608-4591-bbfd-f125a394f8a8",
+      "https://firebasestorage.googleapis.com/v0/b/personalstorage-d06c5.appspot.com/o/Janidu%2FScreenshot%20(581).png?alt=media&token=c0f1e005-4372-4a4c-a1ae-77dde5d834d8",
     tags: [
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "MUI",
-      "NodeMailer",
-      "Firebase",
-      "vercel",
+      "Python",
+      "MySql",
+      "Regex",
+      "Goq LLM",
+      "LangChain",
+      "Streamlit",
     ],
     category: "web app",
-    github: "https://github.com/Tharusha-2000/InternManagementSystemBackend-using-MERN-stack.git",
-    webapp: "https://imsfrontend.vercel.app/",
-    member: [
-      {
-        name: "tharusha dinuth",
-        img: "https://avatars.githubusercontent.com/u/112651385?v=4",
-        linkedin: "https://www.linkedin.com/in/tharushadinuth/",
-        github: "https://github.com/Tharusha-2000",
-      },
-      {
-        name: "Sanugi Divigalpitiya",
-        img: "https://avatars.githubusercontent.com/u/110669844?v=4",
-        linkedin: "",
-        github: "https://github.com/Sanugi",
-      },
-      {
-        name: "Dilum Arandi",
-        img: "https://avatars.githubusercontent.com/u/110850638?v=4",
-        linkedin: "",
-        github: "https://github.com/DilumCA",
-      },
-      {
-        name: "Hansi nimandi",
-        img: "https://avatars.githubusercontent.com/u/111271609?v=4",
-        linkedin: "",
-        github: "https://github.com/NimnadiJayasundara",
-      },
-    ],
+    github: "https://github.com/janiduimesh/AI-Powered-SQL-Query-Assistant.git",
+    
+
   },
   {
     id: 9,
-    title: "Employee Management System",
-    date: "Jun 2023 - Jul 2023",
+    title: "Text Summarization and Analysis System",
+    date: "Aug 2023 - Oct 2023",
     description:
-      " In that system there are two different user roles admin and employee. Admin can add, update , and delete employees. get a count of employees' salaries. get counts of admin and employee. Admin can add categories",
+      " Developed a text summarization system with category-based summarization (law, medical, etc.), sentiment analysis, and topic modeling. Built using a fine-tuned BART model on Hugging Face and an interactive Streamlit frontend for real-time insights.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/protofilo-fe6a9.appspot.com/o/Personaldetails%2FWhatsApp%20Image%202024-08-27%20at%2023.57.04.jpeg?alt=media&token=72f6dfa3-f20a-4f66-a055-a6aac819f937",
+      "https://firebasestorage.googleapis.com/v0/b/personalstorage-d06c5.appspot.com/o/Janidu%2FScreenshot%20(558).png?alt=media&token=b9d20630-de93-46e3-b66c-c850d8f8c1ba",
     tags: [
-      "React Js",
-      "MySQL",
-      "Node Js",
-      "Express Js",
-      "Bootstrap",
+      "Python",
+      "LLM",
+      "NLP",
+      "MongoDB",
+      "Streamlit",
     ],
     category: "web app",
-    github: "https://github.com/Tharusha-2000/EMSBackend.git",
-    webapp: "https://emanagementsystem.vercel.app/",
+    github: "https://github.com/janiduimesh/Text_summerization.git",
+    
   },
   {
     id: 0,
-    title: "PHP Learning",
-    date: "Apr 2023 - Apr 2023",
+    title: "Movie Recommendation System",
+    date: "Aug 2024 - Sep 2024",
     description:
-      "simple design to learning using php,mysql,html",
+      "Developed a personalized movie recommendation system using collaborative filtering, content-based filtering, and hybrid approaches. Built functionalities to suggest movies based on user preferences and contextual factors. Successfully implemented user-item interaction matrices and personalized recommendation logic for enhanced user experience.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/protofilo-fe6a9.appspot.com/o/Personaldetails%2FScreenshot%202024-08-28%20at%2000.38.21.png?alt=media&token=7a702c9c-685f-42de-a8a7-2598632d2dd5",
-    tags: [" PHP", "MySQL", "HTML"],
+      "https://firebasestorage.googleapis.com/v0/b/personalstorage-d06c5.appspot.com/o/Janidu%2FScreenshot%20(573).png?alt=media&token=57ce30ea-a47e-4c16-8b10-a5a46c1fa6fb",
+    tags: [" LLM", "NLP", "Python"],
     category: "web app",
-    github: "https://github.com/Tharusha-2000/Registerpage_PHP-HTML-Mysql.git",
-    webapp: "https://firebasestorage.googleapis.com/v0/b/protofilo-fe6a9.appspot.com/o/Personaldetails%2Fphpreg.mp4?alt=media&token=a2cfd40d-6948-4fc4-9149-64aa2a4f4ea7",
+    github: "https://github.com/janiduimesh/Movie-Recommendation-System.git",
 
   },
   {
     id: 1,
-    title: "Protofilo",
-    date: "Aug 2024 - Aug 2024",
+    title: "Credit Card Offer Prediction System",
+    date: "Aug 2024 - Oct 2024",
     description:
-      "Here is my portfolio website. I have built this website using React Js, styled-components, and framer-motion. I have also used Firebase to store my data and images. I have also used react-three-fiber to create a 3D animation of stars in the background.",
+      "Developed a predictive model to gauge customer interest in credit card offers based on account details and behavioral data. Built an interactive web app using Streamlit, leveraging machine learning for accurate predictions to support banking decisions.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/protofilo-fe6a9.appspot.com/o/Personaldetails%2FScreenshot%202024-08-28%20at%2001.05.47.png?alt=media&token=b394b1f0-9929-4971-8687-4a79dc74e955",
+      "https://firebasestorage.googleapis.com/v0/b/personalstorage-d06c5.appspot.com/o/Janidu%2FScreenshot%20(568).png?alt=media&token=60d737bd-d15a-4915-ba2a-eb4b35621f28",
     tags: [
-      "React Js",
-      "styled-components",
-      "Firebase",
-      "Framer Motion",
-      "react-three-fiber",
-      "EmailJs",
-      "netlify",
+      "Python",
+      "Data Processing Language",
+      "Numpy",
+      "Seaborn",
+      "Streamlit",
+      
     ],
     
     category: "web app",
 
-    github: "https://github.com/Tharusha-2000/tharushaportfolio.git",
-    webapp: "https://tharushadinuth.netlify.app/",
+    github: "https://github.com/janiduimesh/Credit_Card_Offer_Prediction.git",
+    
   },
   
   
   {
     id: 2,
-    title: "Fitness tracking system",
-    date: "present - Aug 2024",
+    title: "Potato Disease Classification ",
+    date: "Nov 2024 - Dec 2024",
     description:
-      "This project will help to create a powerful full fitness tracking application that can monitor workouts, track progress, and provide valuable insights into the fitness journey. This project aims to be a comprehensive solution for users to manage their fitness activities, track their progress, and receive insights that help them stay motivated and achieve their fitness goals.do that with web and mobile responsive",
+      "I developed a machine learning model using Convolutional Neural Networks (CNNs) to classify potato diseases from images of potato leaves. The model helps farmers detect diseases early, improving crop health and yield. By leveraging image preprocessing techniques, I trained the model to provide accurate real-time disease predictions via a user-friendly interface. This project demonstrates my skills in machine learning, image classification, and web development, with tools like TensorFlow, Keras, and Python.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/protofilo-fe6a9.appspot.com/o/Personaldetails%2FRRR.png?alt=media&token=6d8f47c4-3cf7-43e0-bbb0-a8d1ae4388fd",
+      "https://firebasestorage.googleapis.com/v0/b/personalstorage-d06c5.appspot.com/o/Janidu%2FScreenshot%20(556).png?alt=media&token=af86b99c-743a-42fa-b2e1-55c87ba2ab04",
     tags: [ "React ",
-    "MongoDb",
-    "Node Js",
-    "Express Js",
-    "styled-components",
-    "NodeMailer"
+    "Python",
+    "TensorFlow",
+    "FastAPI",
+    "Keras",
+    "React",
   ],
     category: "web app",
-    github: "https://github.com/Tharusha-2000/FitnessTrackBackend_using_MERN.git",
-    webapp: "https://fitness-track-frontend-using-mern.vercel.app/",
+    github: "https://github.com/janiduimesh/Potato-Disease-Classification.git",
   },
   {
     id: 3,
-    title: "PET bottle recycling machine",
-    date: "Jan 2023 - Mar 2023",
+    title: "Student Exam Performance Prediction",
+    date: "Jan 2025 - Jan 2025",
     description:
-      "The project presents an advanced PET Bottle Recycling machine designed to tackle the escalating problem of plastic waste. By leveraging modern technologies this innovative solution transforms plastic bottles into plastic strings. These strings can be used as raw materials for everyday products like brooms and brushes, thereby mitigating environmental impact.-------Skills: Arduino IDE · Blender · Printed Circuit Board (PCB) Design------",
+      "Developed and deployed a Flask-based machine learning model on AWS to predict student exam performance. The model processes user inputs like gender, parental education, and test preparation to predict math scores. Used AWS EC2, ECS, Docker, and GitHub Actions for CI/CD deployment.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/protofilo-fe6a9.appspot.com/o/Personaldetails%2FScreenshot%202024-08-28%20at%2002.08.00.png?alt=media&token=35511fe5-e131-46a2-8327-a3234dafc7d5",
-    tags: [ "Arduino IDE" ,"Blender", "EasyEDA"],
+      "https://firebasestorage.googleapis.com/v0/b/personalstorage-d06c5.appspot.com/o/Janidu%2FScreenshot%20(578).png?alt=media&token=f1ffee11-ef1b-45bf-b222-93d181413fac",
+    tags: [ "Python" ,"Flask","Data Pipeline", "Numpy","Pandas","TensorFlow"],
     category: "Others",
-    github: "https://github.com/Tharusha-2000/PetbottelCuttingSystem.git",
-    webapp: "https://oshwlab.com/tharushadinuth123/tharusha-pro",
-    member: [
-      {
-        name: "tharusha dinuth",
-        img:"https://avatars.githubusercontent.com/u/112651385?v=4",
-        linkedin: "",
-        github: "",
-      },
-      {
-        name: "randil",
-        img: "https://scontent.fcmb4-2.fna.fbcdn.net/v/t39.30808-6/456669753_2260887550931440_1434891305590352242_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Hxk-yMbONegQ7kNvgGC05VD&_nc_zt=23&_nc_ht=scontent.fcmb4-2.fna&oh=00_AYArRqPtEbHhJ7jniJRrlrMOx3WNgfBiWmyWjuWFnPEGpQ&oe=66D3FD99",
-      
-      },
-      {
-        name: "hiruni ",
-        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwmG52pVI5JZfn04j9gdtsd8pAGbqjjLswg&s",
-        linkedin: "",
-        github: "",
-      },
-      {
-        name: "shehara ",
-        img: "https://media.licdn.com/dms/image/v2/D5603AQHVCwlU3MrFhw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1714288224141?e=1730332800&v=beta&t=ciA42OhaFVxdjSDFnKeqDLjwFKB8Gjz_rIT2kvxBc_Q",
-        linkedin: "",
-        github: "",
-      },
-      {
-        name: "ishari ",
-        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwmG52pVI5JZfn04j9gdtsd8pAGbqjjLswg&s",
-        linkedin: "",
-        github: "",
-      },
-    ],
+    github: "https://github.com/janiduimesh/ML_Prediction.git",
+    
   },
 
 
