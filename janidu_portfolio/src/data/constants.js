@@ -322,7 +322,7 @@ export const education = [
     img: "https://firebasestorage.googleapis.com/v0/b/personalstorage-d06c5.appspot.com/o/Janidu%2FFavicon-150x150-1.png?alt=media&token=eea0f4d5-3fa4-494e-99fb-dfe50f062924",
     school: "St.Johns College,Nugegoda",
     date: "2011 - 2017",
-    desc: "I completed my class 11  school education at Bandaranayake College,Gampaha",
+    desc: "I completed my class 11  school education at St.Johns College Nugegoda",
     degree: "Odinary Level",
   },
 ];
