@@ -90,7 +90,7 @@ const Footer = () => {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Tharusha Dinuth </Logo>
+        <Logo>Janidu Imesh </Logo>
         <Nav>
         <StyledLink smooth to="#About">About</StyledLink>
 <StyledLink smooth to="#Skills">Skills</StyledLink>
@@ -109,7 +109,7 @@ const Footer = () => {
             <InstagramIcon />
           </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>&copy; 2024 Tharusha Dinuth. All rights reserved.</Copyright>
+        <Copyright>&copy; 2024 Janidu Imesh. All rights reserved.</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );
