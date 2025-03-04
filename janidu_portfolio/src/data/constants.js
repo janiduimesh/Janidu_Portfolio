@@ -12,8 +12,8 @@ export const Bio = {
   resume:
     "https://firebasestorage.googleapis.com/v0/b/personalstorage-d06c5.appspot.com/o/Janidu%2Fnew%2Fimesh_ML.pdf?alt=media&token=7ca68a16-09da-4dc8-bd37-eab9a0a7d880",
   linkedin: "https://www.linkedin.com/in/janidu-imesh-589049292/",
-  insta: "https://www.instagram.com/______td_____/",
-  facebook: "https://web.facebook.com/profile.php?id=100004544387202",
+  insta: "https://www.instagram.com/_janidu_imesh_/",
+  facebook: "https://www.facebook.com/profile.php?id=100007529042515&mibextid=JRoKGi",
 
 };
 
@@ -208,61 +208,7 @@ export const skills = [
 
 export const experiences = [
  
-  {
-    id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/protofilo-fe6a9.appspot.com/o/Personaldetails%2Fcreativesoftware.png?alt=media&token=8b1bf629-c094-4498-a263-e216fd35b89f",
-    role: '',
-    company: "Creative Software",
-    date: "Jan 2023 - Jun 2021",
-    desc: "During our first year at the University of Moratuwa, as part of the industrial visit course module, we had an invaluable six-month experience at Creative Software. We gained hands-on exposure to the company's operations, interacted with industry experts, and organized a team-building event that enhanced our understanding of effective collaboration. This experience significantly enriched our academic journey, offering practical insights that will shape our future in the field.",
-
-  },
-  {
-    id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/protofilo-fe6a9.appspot.com/o/Personaldetails%2F99x.png?alt=media&token=b2bb6153-02e1-4124-acff-613f4001f3bc",
-    role: "",
-    company: "99x",
-    date: "oct 2023 - Jul 2024",
-    desc: "We successfully collaborated with 99x to develop the Intern Management System (Zionlogy) over a one-year period. This project, built under the guidance of mentors and supervisors from 99x,and learn from industry experts ",
-    skills: [
-      "ReactJS",
-      "NodeJs",
-      "Material UI",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Vercel",
-      "Jest",
-      "Firebase",
-      "MongoDB",
-    ],
-
-  },
-  {
-    id: 2,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGBy1obK8JMJpfuwXGw5zxFqDnQJaIEYfHQg&s",
-    role: "Member ",
-    company: "Hiking Club,University of Moratuwa",
-    date: "Others",
-    desc: "As a dedicated member of the hiking club, I've had the privilege of exploring some of the most breathtaking trails, including Raassagala, Kirigalpoththa, Namunukula, Ohiya, Alagalla, Narangala, Kabaragala, and Pidurangala. These hikes have not only allowed me to release stress but also to immerse myself in the beauty of nature, finding peace and inspiration in every step.",
-   
-  },
-  {
-    id: 3,
-    img: "https://firebasestorage.googleapis.com/v0/b/protofilo-fe6a9.appspot.com/o/Personaldetails%2Fboy.png?alt=media&token=e62a2d2c-5a39-4bef-92fe-cfc4b5a9869b",
-    role: "Photography",
-    company: "",
-    date: "Hobby",
-    pot: [
-      "https://firebasestorage.googleapis.com/v0/b/protofilo-fe6a9.appspot.com/o/Personaldetails%2FWhatsApp%20Image%202024-08-28%20at%2004.15.30.jpeg?alt=media&token=c5a7d5df-a93d-4f2e-9e87-8439db929a33",
-      "https://firebasestorage.googleapis.com/v0/b/protofilo-fe6a9.appspot.com/o/Personaldetails%2FWhatsApp%20Image%202024-08-28%20at%2004.15.55.jpeg?alt=media&token=b3d7f8f8-624e-4c93-a672-d8680be4fb54",
-      "https://firebasestorage.googleapis.com/v0/b/protofilo-fe6a9.appspot.com/o/Personaldetails%2FWhatsApp%20Image%202024-08-28%20at%2005.56.40.jpeg?alt=media&token=70bf957d-cf9d-4acc-97ac-aaff8fd6372f",
-      " https://firebasestorage.googleapis.com/v0/b/protofilo-fe6a9.appspot.com/o/Personaldetails%2FWhatsApp%20Image%202024-08-28%20at%2005.41.44.jpeg?alt=media&token=66602626-3563-4959-b272-36d5e1a183dc",
-      "https://firebasestorage.googleapis.com/v0/b/protofilo-fe6a9.appspot.com/o/Personaldetails%2FWhatsApp%20Image%202024-08-28%20at%2004.18.41.jpeg?alt=media&token=5e330802-f3c6-44f9-8707-ff94387bfd50",
-      "https://firebasestorage.googleapis.com/v0/b/protofilo-fe6a9.appspot.com/o/Personaldetails%2FWhatsApp%20Image%202024-08-28%20at%2005.49.39.jpeg?alt=media&token=ec81ac59-9cbf-43a6-8194-abca9b3d51ca",
-    ],
-   
-  },
+  
 ];
 
 
